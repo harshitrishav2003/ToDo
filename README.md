@@ -13,7 +13,7 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
-
+<img width="1430" alt="Screenshot 2025-01-15 at 3 01 18 AM" src="https://github.com/user-attachments/assets/b084924e-67f1-496b-afac-6cf3a7bd7199" />
 ### `npm test`
 
 Launches the test runner in the interactive watch mode.\
@@ -60,6 +60,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/m
 ### Advanced Configuration
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+
 
 ### Deployment
 
